@@ -278,6 +278,7 @@ sudo dnf install -y flatpak
 ###
 
 # Installation of Orchis theme for a modern look
+git clone https://github.com/vinceliuice/Orchis-theme.git
 ./Orchis-theme/install.sh -c dark -s compact -l -n 'Orchis-Dark'
 
 # Tilix Dark Theme
